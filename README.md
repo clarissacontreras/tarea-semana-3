@@ -1,5 +1,6 @@
 # Tarea 3 - Tarea en parejas
 
+Modificado por Montserrat
 Modificación por Clarissa
 
-Revision de README
+Se revisó el README (Issue Clarissa)
